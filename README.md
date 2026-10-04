@@ -6,6 +6,11 @@ against the current setup using paired confidence intervals with a Bonferroni co
 
 *Course project – Simulation, Industrial Engineering & Management.*
 
+**Key result:** Of two investment alternatives, only Alternative A (more stage capacity plus popular
+mainstream acts, ₪950K) significantly raised both revenue (+12%, about ₪136K per festival) and visitor
+satisfaction (+0.3 points). Alternative B (₪850K) raised satisfaction strongly (+1.3) but not revenue.
+If the cost is a one-time investment, A pays back in about 7 festivals.
+
 ## Business question
 
 The festival management is considering two investment packages. Which one improves
